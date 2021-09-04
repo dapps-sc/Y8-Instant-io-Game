@@ -1,4 +1,4 @@
-# Y8 Instant io Game
+# Y8 Instant-io Game
 
 This is a boilerplate combining several top open source tools
  to give you an easy starting point to making an io multipler game. It uses
